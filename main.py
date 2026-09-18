@@ -5,3 +5,5 @@ print("aldaketa egin")
 print("Aldaketa Git")
 
 print("Norbait irakurtzekooooooo")
+
+print ("erreala galdu egin du")
